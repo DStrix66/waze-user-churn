@@ -15,7 +15,7 @@ It was established that the data is insufficient for reliably predicting user ch
 
 **PROJECT OVERVIEW**
 
-This was a three-stage project, in which I was involved after the first stage.
+This was a three-stage project, in which I was involved after the first stage. Jupyter Notebooks of code I wrote are found in this repository for stages 2 through 5.
 
 ## **Stage 1: Project proposal** (not involved)
 
